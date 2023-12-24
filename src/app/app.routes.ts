@@ -19,9 +19,6 @@ export const routes: Routes = [
     path:'contact',component:ContactComponent
 },
 {
-    path:'district',component:DistrictComponent
-},
-{
     path:'login',component:LoginComponent
 },
 {
